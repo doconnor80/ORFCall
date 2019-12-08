@@ -34,3 +34,4 @@ Like this:
 
 If the fastq files end with ".gz", they will be unzipped on the fly.
 END
+END
